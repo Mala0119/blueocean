@@ -1,4 +1,3 @@
-#Added test line by Mala
 pipeline {
      agent any
      stages {
